@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local runtime databases & logs
+*.db
+*.sqlite3
+complaints_history.json
+*.pcap
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
